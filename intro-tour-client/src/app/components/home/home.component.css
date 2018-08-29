@@ -1,0 +1,16 @@
+#body{
+    position: absolute;
+    top: 60px;    
+    left: 1.5%;
+    width: 97%;
+    /* background-color: white; */
+    border-radius: 2px;
+    padding: 5px;
+    box-shadow: .6px .7px 1px 1px rgb(226, 226, 226);
+    border: 1px solid white;   
+}
+
+#map{
+    height: 400px;
+    width: 100%;
+}
